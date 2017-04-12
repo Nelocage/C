@@ -51,7 +51,7 @@ void main()
 			else if( Number > price )
 				printf(" Sorry, Only a little bigger! Press any key to try again!\n");
 		}
-		getch();
+		getchar();
 	}
 }
 
